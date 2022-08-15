@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.log
+.gitmodules
+
+# data files for tensorflow
+modules/insta_generation/checkpoints/*
+
+.idea
+*.weights
+*un~
+*.npy
+
+.venv/
+*.png
+*.csv
+*.pickle
+*.ipynb
+*.jpg
+*.jpeg
+*.png
+*.pth
